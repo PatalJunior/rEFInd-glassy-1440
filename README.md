@@ -13,7 +13,7 @@
 
  3. Clone this repository into the `themes` directory.
 
- 4. To enable the theme add `include themes/rEFInd-glassy/theme.conf` at the end of
+ 4. To enable the theme add `include themes/rEFInd-glassy-1440/theme.conf` at the end of
     `refind.conf`.
     
  5. You may need to change the default resolution of the rEFInd menu (see refind.conf).
