@@ -25,6 +25,6 @@ Entries should be autodetected and shown with the proper icons.
 Manual entries can be done via `menuentry` option (see refind.conf for examples).
 
 ### Attributions
-> This theme is based on the [Sunset](https://gitlab.com/realmain/rEFInd-sunset) theme.
+> This theme is based on the [rEFInd-glassy](https://github.com/Pr0cella/rEFInd-glassy) theme which was based of the [Sunset](https://gitlab.com/realmain/rEFInd-sunset) theme.
 
 > Contains OS Icons from [munlik's](https://github.com/munlik/refind-theme-regular) repository.
